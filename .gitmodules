@@ -1,0 +1,3 @@
+[submodule "state-controller"]
+	path = state-controller
+	url = git@github.com:g2xpf/state-controller.git
